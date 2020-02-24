@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.be28ee25.chunk.css",
+    "main.css": "./static/css/main.e9f0825b.chunk.css",
     "main.js": "./static/js/main.6c00f91d.chunk.js",
     "main.js.map": "./static/js/main.6c00f91d.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.d8812423.js",
@@ -9,10 +9,10 @@
     "static/js/2.a8de141c.chunk.js": "./static/js/2.a8de141c.chunk.js",
     "static/js/2.a8de141c.chunk.js.map": "./static/js/2.a8de141c.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.7d20c9a7c8ab2c15d8dfbb7721e31878.js": "./precache-manifest.7d20c9a7c8ab2c15d8dfbb7721e31878.js",
+    "precache-manifest.a70ad2203500d6b3c262b6adde3408ce.js": "./precache-manifest.a70ad2203500d6b3c262b6adde3408ce.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.4e89ce74.chunk.css.map": "./static/css/2.4e89ce74.chunk.css.map",
-    "static/css/main.be28ee25.chunk.css.map": "./static/css/main.be28ee25.chunk.css.map",
+    "static/css/main.e9f0825b.chunk.css.map": "./static/css/main.e9f0825b.chunk.css.map",
     "static/media/Home.css": "./static/media/Atm-logo.29a709ec.png",
     "static/media/Progs-app.css": "./static/media/pic3.1e4bafe9.jpg",
     "static/media/sykableat.jpg": "./static/media/sykableat.6767301b.jpg"
